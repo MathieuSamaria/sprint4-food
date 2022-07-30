@@ -12,7 +12,7 @@
     </header>
 
     <main>
-        
+        <x-recipe-pop/>
     </main>
 
 
